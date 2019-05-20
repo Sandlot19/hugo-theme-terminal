@@ -21,6 +21,7 @@ module.exports = {
     "blue.css": join("source", "css", "color", "blue.css"),
     "green.css": join("source", "css", "color", "green.css"),
     "pink.css": join("source", "css", "color", "pink.css"),
+    "purple.css": join("source", "css", "color", "purple.css"),
   },
   output: {
     filename: "[name]",
